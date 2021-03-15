@@ -4,7 +4,7 @@
 ## apt install python
 ## apt install python
 ## apt install git
-## git clone 
+## git clone https://github.com/BABARAJON/brute-master
 ## ls
 ## cd brute-master
 ## chmod +x *
